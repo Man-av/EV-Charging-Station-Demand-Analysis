@@ -71,4 +71,4 @@ https://public.tableau.com/app/profile/manav.sharma4129/viz/evper10000/Dashboard
 
 ## 🤝 Credits
 
-Made by [Manav Sharma](https://www.linkedin.com/in/...) as part of a data analytics portfolio to support sustainable tech development.
+Made by Manav Sharma as part of a data analytics portfolio to support sustainable tech development.
